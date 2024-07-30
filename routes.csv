@@ -1,0 +1,299 @@
+origin,destination,distance_km,origin_lat,origin_lon,destination_lat,destination_lon
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+Zapopan Jalisco Mexico,La Paz Baja California Mexico,1122,20.6596988,-103.3496092,32.5050622,-116.9045963
+Zapopan Jalisco Mexico,La Paz Baja California Mexico,1122,20.6596988,-103.3496092,32.5050622,-116.9045963
+Zapopan Jalisco Mexico,La Paz Baja California Mexico,1122,20.6596988,-103.3496092,32.5050622,-116.9045963
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+Zapopan Jalisco Mexico,CDMX,520,20.6596988,-103.3496092,19.4326296,-99.1331785
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,552,19.4326296,-99.1331785,20.674652,-103.365051
+Guadalajara Jalisco Mexico,CDMX,552,20.674652,-103.365051,19.4326296,-99.1331785
+Monterrey Nuevo Leon Mexico,Monterrey Nuevo Leon Mexico,50,25.680522,-100.313821,25.680522,-100.313821
+CDMX,Monterrey Nuevo Leon Mexico,910,19.4326296,-99.1331785,25.680522,-100.313821
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,552,19.4326296,-99.1331785,20.674652,-103.365051
+Guadalajara Jalisco Mexico,CDMX,552,20.674652,-103.365051,19.4326296,-99.1331785
+Monterrey Nuevo Leon Mexico,Monterrey Nuevo Leon Mexico,50,25.680522,-100.313821,25.680522,-100.313821
+CDMX,Monterrey Nuevo Leon Mexico,910,19.4326296,-99.1331785,25.680522,-100.313821
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,552,19.4326296,-99.1331785,20.674652,-103.365051
+Guadalajara Jalisco Mexico,CDMX,552,20.674652,-103.365051,19.4326296,-99.1331785
+Monterrey Nuevo Leon Mexico,Monterrey Nuevo Leon Mexico,50,25.680522,-100.313821,25.680522,-100.313821
+CDMX,Monterrey Nuevo Leon Mexico,910,19.4326296,-99.1331785,25.680522,-100.313821
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,552,19.4326296,-99.1331785,20.674652,-103.365051
+Guadalajara Jalisco Mexico,CDMX,552,20.674652,-103.365051,19.4326296,-99.1331785
+Monterrey Nuevo Leon Mexico,Monterrey Nuevo Leon Mexico,50,25.680522,-100.313821,25.680522,-100.313821
+CDMX,Monterrey Nuevo Leon Mexico,910,19.4326296,-99.1331785,25.680522,-100.313821
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Guadalajara Jalisco Mexico,552,19.4326296,-99.1331785,20.674652,-103.365051
+Guadalajara Jalisco Mexico,CDMX,552,20.674652,-103.365051,19.4326296,-99.1331785
+Monterrey Nuevo Leon Mexico,Monterrey Nuevo Leon Mexico,50,25.680522,-100.313821,25.680522,-100.313821
+CDMX,Monterrey Nuevo Leon Mexico,910,19.4326296,-99.1331785,25.680522,-100.313821
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+CDMX,CDMX,50,19.4326296,-99.1331785,19.4326296,-99.1331785
+CDMX,Toluca de Lerdo Estado de Mexico Mexico,88,19.4326296,-99.1331785,19.290252,-99.657664
+CDMX,Apaseo el Grande Guanajuato Mexico,207,19.4326296,-99.1331785,20.9512191,-101.3184872
+CDMX,Celaya Guanajuato Mexico,261,19.4326296,-99.1331785,21.0245689,-101.2741966
+CDMX,Salamanca Guanajuato Mexico,300,19.4326296,-99.1331785,21.0242582,-101.2740392
+CDMX,San Jose Iturbide Guanajuato Mexico,222,19.4326296,-99.1331785,20.999661,-100.385532
+CDMX,Silao Guanuajuato Mexico,350,19.4326296,-99.1331785,20.943338,-101.427207
+CDMX,Guadalajara Jalisco Mexico,550,19.4326296,-99.1331785,20.674652,-103.365051
+CDMX,Tlajomulco de Zuñiga Jalisco Mexico,536,19.4326296,-99.1331785,20.48187375,-103.4005097
+CDMX,Tlaquepaque Jalisco Mexico,512,19.4326296,-99.1331785,20.605126,-103.324509
+CDMX,Zapopan Jalisco Mexico,520,19.4326296,-99.1331785,20.6596988,-103.3496092
+CDMX,Cuernavaca Morelos Mexico,127,19.4326296,-99.1331785,18.920846,-99.234746
+CDMX,Santa Catarina Nuevo Leon Mexico,856,19.4326296,-99.1331785,25.6745052,-100.4616371
+CDMX,Puebla de Zaragoza Puebla Mexico,183,19.4326296,-99.1331785,19.0254554,-98.2116253
+CDMX,Queretaro Queretaro Mexico,217,19.4326296,-99.1331785,20.5954708,-100.397059
+CDMX,Laguna de San Vicente San Luis Potosi Mexico,354,19.4326296,-99.1331785,21.9466934,-100.8605931
+Manzanillo Colima Mexico,Acatic Jalisco Mexico,349,19.264454,-103.7289144,20.780263,-102.91049
+Manzanillo Colima Mexico,Acatic Jalisco Mexico,349,19.264454,-103.7289144,20.780263,-102.91049
+Manzanillo Colima Mexico,Aguascalientes Aguascalientes Mexico,507.2,19.264454,-103.7289144,21.8972553,-102.2725336
+Manzanillo Colima Mexico,Aguascalientes Aguascalientes Mexico,507.2,19.264454,-103.7289144,21.8972553,-102.2725336
+Manzanillo Colima Mexico,Allende Coahuila Mexico,1383.6,19.264454,-103.7289144,28.3420816,-100.8517302
+Manzanillo Colima Mexico,Allende Coahuila Mexico,1383.6,19.264454,-103.7289144,28.3420816,-100.8517302
+Manzanillo Colima Mexico,Apaseo el Grande Guanajuato Mexico,616.4,19.264454,-103.7289144,20.9512191,-101.3184872
+Manzanillo Colima Mexico,Apaseo el Grande Guanajuato Mexico,616.4,19.264454,-103.7289144,20.9512191,-101.3184872
+Manzanillo Colima Mexico,Apodaca Nuevo Leon Mexico,1111.8,19.264454,-103.7289144,25.7816542,-100.1887501
+Manzanillo Colima Mexico,Apodaca Nuevo Leon Mexico,1111.8,19.264454,-103.7289144,25.7816542,-100.1887501
+Manzanillo Colima Mexico,Arandas Jalisco Mexico,415.1,19.264454,-103.7289144,20.705504,-102.345166
+Manzanillo Colima Mexico,Arandas Jalisco Mexico,415.1,19.264454,-103.7289144,20.705504,-102.345166
+Manzanillo Colima Mexico,Arteaga Coahuila Mexico,1015.4,19.264454,-103.7289144,25.3453685,-100.6831723
+Manzanillo Colima Mexico,Arteaga Coahuila Mexico,1015.4,19.264454,-103.7289144,25.3453685,-100.6831723
+Manzanillo Colima Mexico,Atotonilco el Alto Jalisco Mexico,382.5,19.264454,-103.7289144,20.551329,-102.508283
+Manzanillo Colima Mexico,Atotonilco el Alto Jalisco Mexico,382.5,19.264454,-103.7289144,20.551329,-102.508283
+Manzanillo Colima Mexico,Camargo Chihuahua Mexico,1314,19.264454,-103.7289144,28.0582028,-104.3801065
+Manzanillo Colima Mexico,Camargo Chihuahua Mexico,1314,19.264454,-103.7289144,28.0582028,-104.3801065
+Manzanillo Colima Mexico,Ciudad Guzman Jalisco Mexico,167.8,19.264454,-103.7289144,19.703374,-103.463942
+Manzanillo Colima Mexico,Ciudad Guzman Jalisco Mexico,167.8,19.264454,-103.7289144,19.703374,-103.463942
+Manzanillo Colima Mexico,Ciudad Juarez Chihuahua Mexico,1833.4,19.264454,-103.7289144,31.7372575,-106.485655
+Manzanillo Colima Mexico,Ciudad Juarez Chihuahua Mexico,1833.4,19.264454,-103.7289144,31.7372575,-106.485655
+Manzanillo Colima Mexico,Ciudad Obregon Sonora Mexico,1358.6,19.264454,-103.7289144,27.4846619,-109.9337782
+Manzanillo Colima Mexico,Ciudad Obregon Sonora Mexico,1358.6,19.264454,-103.7289144,27.4846619,-109.9337782
+Manzanillo Colima Mexico,CDMX,835.2,19.264454,-103.7289144,19.4326296,-99.1331785
+Manzanillo Colima Mexico,CDMX,835.2,19.264454,-103.7289144,19.4326296,-99.1331785
+Manzanillo Colima Mexico,Celaya Guanajuato Mexico,603,19.264454,-103.7289144,21.0245689,-101.2741966
+Manzanillo Colima Mexico,Celaya Guanajuato Mexico,603,19.264454,-103.7289144,21.0245689,-101.2741966
+Manzanillo Colima Mexico,Chihuahua Chihuahua Mexico,1465.4,19.264454,-103.7289144,28.6821267,-106.101706
+Manzanillo Colima Mexico,Chihuahua Chihuahua Mexico,1465.4,19.264454,-103.7289144,28.6821267,-106.101706
+Manzanillo Colima Mexico,Coatzacoalcos Veracruz Mexico,1409.3,19.264454,-103.7289144,18.1396787,-94.4501731
+Manzanillo Colima Mexico,Coatzacoalcos Veracruz Mexico,1409.3,19.264454,-103.7289144,18.1396787,-94.4501731
+Manzanillo Colima Mexico,Cortazar Guanajuato Mexico,615.9,19.264454,-103.7289144,20.4220211,-100.9305673
+Manzanillo Colima Mexico,Cortazar Guanajuato Mexico,615.9,19.264454,-103.7289144,20.4220211,-100.9305673
+Manzanillo Colima Mexico,Cuatro Cienegas Coahuila Mexico,1274.1,19.264454,-103.7289144,26.66650175,-102.3791854
+Manzanillo Colima Mexico,Cuatro Cienegas Coahuila Mexico,1274.1,19.264454,-103.7289144,26.66650175,-102.3791854
+Manzanillo Colima Mexico,Cuautla Morelos Mexico,914.2,19.264454,-103.7289144,18.816037,-98.953191
+Manzanillo Colima Mexico,Cuautla Morelos Mexico,914.2,19.264454,-103.7289144,18.816037,-98.953191
+Manzanillo Colima Mexico,Culiacan Sinaloa Mexico,943.6,19.264454,-103.7289144,24.807412,-107.394412
+Manzanillo Colima Mexico,Culiacan Sinaloa Mexico,943.6,19.264454,-103.7289144,24.807412,-107.394412
+Manzanillo Colima Mexico,Durango Durango Mexico,929.5,19.264454,-103.7289144,24.021205,-104.654966
+Manzanillo Colima Mexico,Durango Durango Mexico,929.5,19.264454,-103.7289144,24.021205,-104.654966
+Manzanillo Colima Mexico,Guadalajara Jalisco Mexico,290,19.264454,-103.7289144,20.674652,-103.365051
+Manzanillo Colima Mexico,Guadalajara Jalisco Mexico,290,19.264454,-103.7289144,20.674652,-103.365051
+Manzanillo Colima Mexico,Guadalajara Jalisco Mexico,290,19.264454,-103.7289144,20.674652,-103.365051
+Manzanillo Colima Mexico,Guadalajara Jalisco Mexico,290,19.264454,-103.7289144,20.674652,-103.365051
+Manzanillo Colima Mexico,Hermosillo Sonora Mexico,1611.4,19.264454,-103.7289144,29.09426,-110.969649
+Manzanillo Colima Mexico,Hermosillo Sonora Mexico,1611.4,19.264454,-103.7289144,29.09426,-110.969649
+Manzanillo Colima Mexico,Huejotzingo Puebla Mexico,931.5,19.264454,-103.7289144,19.16427705,-98.43927536
+Manzanillo Colima Mexico,Huejotzingo Puebla Mexico,931.5,19.264454,-103.7289144,19.16427705,-98.43927536
+Manzanillo Colima Mexico,Irapuato Guanuajuato Mexico,542.3,19.264454,-103.7289144,20.67465,-101.345541
+Manzanillo Colima Mexico,Irapuato Guanuajuato Mexico,542.3,19.264454,-103.7289144,20.67465,-101.345541
+Manzanillo Colima Mexico,Jesus Maria Jalisco Mexico,312.4,19.264454,-103.7289144,20.64794705,-102.1075738
+Manzanillo Colima Mexico,Jesus Maria Jalisco Mexico,312.4,19.264454,-103.7289144,20.64794705,-102.1075738
+Manzanillo Colima Mexico,Jimenez Chihuahua Mexico,1244.9,19.264454,-103.7289144,26.96566235,-104.3673107
+Manzanillo Colima Mexico,Jimenez Chihuahua Mexico,1244.9,19.264454,-103.7289144,26.96566235,-104.3673107
+Manzanillo Colima Mexico,Lagos de moreno Jalisco Mexico,473.5,19.264454,-103.7289144,21.354782,-101.932084
+Manzanillo Colima Mexico,Lagos de moreno Jalisco Mexico,473.5,19.264454,-103.7289144,21.354782,-101.932084
+Manzanillo Colima Mexico,Leon Guanajuato Mexico,508.8,19.264454,-103.7289144,21.122002,-101.681926
+Manzanillo Colima Mexico,Leon Guanajuato Mexico,508.8,19.264454,-103.7289144,21.122002,-101.681926
+Manzanillo Colima Mexico,Los mochis Sinaloa Mexico,1135.7,19.264454,-103.7289144,25.792233,-108.991542
+Manzanillo Colima Mexico,Los mochis Sinaloa Mexico,1135.7,19.264454,-103.7289144,25.792233,-108.991542
+Manzanillo Colima Mexico,Matamoros Tamaulipas Mexico,1267.9,19.264454,-103.7289144,25.8810158,-97.5064866
+Manzanillo Colima Mexico,Matamoros Tamaulipas Mexico,1267.9,19.264454,-103.7289144,25.8810158,-97.5064866
+Manzanillo Colima Mexico,Mazatlan Sinaloa Mexico,737.9,19.264454,-103.7289144,23.198514,-106.422819
+Manzanillo Colima Mexico,Mazatlan Sinaloa Mexico,737.9,19.264454,-103.7289144,23.198514,-106.422819
+Manzanillo Colima Mexico,Merida Yucatan Mexico,2126.6,19.264454,-103.7289144,20.9670759,-89.6237402
+Manzanillo Colima Mexico,Merida Yucatan Mexico,2126.6,19.264454,-103.7289144,20.9670759,-89.6237402
+Manzanillo Colima Mexico,Mexicali Baja California Mexico,2310.5,19.264454,-103.7289144,32.641201,-115.474312
+Manzanillo Colima Mexico,Mexicali Baja California Mexico,2310.5,19.264454,-103.7289144,32.641201,-115.474312
+Manzanillo Colima Mexico,Monclova Coahuila Mexico,1193.9,19.264454,-103.7289144,26.901135,-101.415967
+Manzanillo Colima Mexico,Monclova Coahuila Mexico,1193.9,19.264454,-103.7289144,26.901135,-101.415967
+Manzanillo Colima Mexico,Monterrey Nuevo Leon Mexico,1090.9,19.264454,-103.7289144,25.680522,-100.313821
+Manzanillo Colima Mexico,Monterrey Nuevo Leon Mexico,1090.9,19.264454,-103.7289144,25.680522,-100.313821
+Manzanillo Colima Mexico,Ocotlan Jalisco Mexico,339.3,19.264454,-103.7289144,20.349829,-102.773862
+Manzanillo Colima Mexico,Ocotlan Jalisco Mexico,339.3,19.264454,-103.7289144,20.349829,-102.773862
+Manzanillo Colima Mexico,Paraíso Tabasco Mexico,1579.4,19.264454,-103.7289144,18.3623055,-93.1883587
+Manzanillo Colima Mexico,Paraíso Tabasco Mexico,1579.4,19.264454,-103.7289144,18.3623055,-93.1883587
+Manzanillo Colima Mexico,Piedras Negras Coahuila Mexico,1431.9,19.264454,-103.7289144,28.704596,-100.5167137
+Manzanillo Colima Mexico,Piedras Negras Coahuila Mexico,1431.9,19.264454,-103.7289144,28.704596,-100.5167137
+Manzanillo Colima Mexico,Puebla de Zaragoza Puebla Mexico,950.6,19.264454,-103.7289144,19.0254554,-98.2116253
+Manzanillo Colima Mexico,Puebla de Zaragoza Puebla Mexico,950.6,19.264454,-103.7289144,19.0254554,-98.2116253
+Manzanillo Colima Mexico,Queretaro Queretaro Mexico,629.6,19.264454,-103.7289144,20.5954708,-100.397059
+Manzanillo Colima Mexico,Queretaro Queretaro Mexico,629.6,19.264454,-103.7289144,20.5954708,-100.397059
+Manzanillo Colima Mexico,Ramos Arizpe Coahuila Mexico,1018.6,19.264454,-103.7289144,25.53965,-100.948589
+Manzanillo Colima Mexico,Ramos Arizpe Coahuila Mexico,1018.6,19.264454,-103.7289144,25.53965,-100.948589
+Manzanillo Colima Mexico,Reynosa Tamaulipas Mexico,1274.6,19.264454,-103.7289144,26.090823,-98.278851
+Manzanillo Colima Mexico,Reynosa Tamaulipas Mexico,1274.6,19.264454,-103.7289144,26.090823,-98.278851
+Manzanillo Colima Mexico,Rincon de Romos Aguascalientes Mexico,562.2,19.264454,-103.7289144,22.2293637,-102.3229846
+Manzanillo Colima Mexico,Rincon de Romos Aguascalientes Mexico,562.2,19.264454,-103.7289144,22.2293637,-102.3229846
+Manzanillo Colima Mexico,Salamanca Guanajuato Mexico,560.9,19.264454,-103.7289144,21.0242582,-101.2740392
+Manzanillo Colima Mexico,Salamanca Guanajuato Mexico,560.9,19.264454,-103.7289144,21.0242582,-101.2740392
+Manzanillo Colima Mexico,Saltillo Coahuila Mexico,1003.2,19.264454,-103.7289144,25.422754,-101.001917
+Manzanillo Colima Mexico,Saltillo Coahuila Mexico,1003.2,19.264454,-103.7289144,25.422754,-101.001917
+Manzanillo Colima Mexico,San Buenaventura Coahuila Mexico,1216.3,19.264454,-103.7289144,27.84153645,-101.9366339
+Manzanillo Colima Mexico,San Buenaventura Coahuila Mexico,1216.3,19.264454,-103.7289144,27.84153645,-101.9366339
+Manzanillo Colima Mexico,San Juan Del Rio Queretaro Mexico,699.7,19.264454,-103.7289144,20.577917,-100.359749
+Manzanillo Colima Mexico,San Juan Del Rio Queretaro Mexico,699.7,19.264454,-103.7289144,20.577917,-100.359749
+Manzanillo Colima Mexico,San Julián Jalisco Mexico,434.7,19.264454,-103.7289144,20.993872,-102.158357
+Manzanillo Colima Mexico,San Julián Jalisco Mexico,434.7,19.264454,-103.7289144,20.993872,-102.158357
+Manzanillo Colima Mexico,San Luis Potosí San Luis Potosí Mexico,618.7,19.264454,-103.7289144,22.1519711,-100.9570379
+Manzanillo Colima Mexico,San Luis Potosí San Luis Potosí Mexico,618.7,19.264454,-103.7289144,22.1519711,-100.9570379
+Manzanillo Colima Mexico,San Miguel de Allende Guanajuato Mexico,623.7,19.264454,-103.7289144,20.914451,-100.745243
+Manzanillo Colima Mexico,San Miguel de Allende Guanajuato Mexico,623.7,19.264454,-103.7289144,20.914451,-100.745243
+Manzanillo Colima Mexico,Silao Guanuajuato Mexico,537.7,19.264454,-103.7289144,20.943338,-101.427207
+Manzanillo Colima Mexico,Silao Guanuajuato Mexico,537.7,19.264454,-103.7289144,20.943338,-101.427207
+Manzanillo Colima Mexico,Tequila Jalisco Mexico,324.3,19.264454,-103.7289144,20.884563,-103.838464
+Manzanillo Colima Mexico,Tequila Jalisco Mexico,324.3,19.264454,-103.7289144,20.884563,-103.838464
+Manzanillo Colima Mexico,Toluca de Lerdo Estado de Mexico Mexico,754.3,19.264454,-103.7289144,19.290252,-99.657664
+Manzanillo Colima Mexico,Toluca de Lerdo Estado de Mexico Mexico,754.3,19.264454,-103.7289144,19.290252,-99.657664
+Manzanillo Colima Mexico,Torreon Coahuila Mexico,1024.1,19.264454,-103.7289144,25.542919,-103.411036
+Manzanillo Colima Mexico,Torreon Coahuila Mexico,1024.1,19.264454,-103.7289144,25.542919,-103.411036
+Manzanillo Colima Mexico,Tototlan Jalisco Mexico,352.2,19.264454,-103.7289144,20.456944,-102.738611
+Manzanillo Colima Mexico,Tototlan Jalisco Mexico,352.2,19.264454,-103.7289144,20.456944,-102.738611
+Manzanillo Colima Mexico,Veracruz Veracruz Mexico,1212.9,19.264454,-103.7289144,20.6858675,-97.5997375
+Manzanillo Colima Mexico,Veracruz Veracruz Mexico,1212.9,19.264454,-103.7289144,20.6858675,-97.5997375
+Manzanillo Colima Mexico,Zacatecas Zacatecas Mexico,639.8,19.264454,-103.7289144,22.780014,-102.74948
+Manzanillo Colima Mexico,Zacatecas Zacatecas Mexico,639.8,19.264454,-103.7289144,22.780014,-102.74948
+Guadalajara Jalisco Mexico,Acatlan de Juarez Jalisco Mexico,44.9,20.674652,-103.365051,20.422379,-103.592725
+Guadalajara Jalisco Mexico,Acatlan de Juarez Jalisco Mexico,44.9,20.674652,-103.365051,20.422379,-103.592725
+Guadalajara Jalisco Mexico,Altamira Tamaulipas Mexico,790.2,20.674652,-103.365051,22.392539,-97.935795
+Guadalajara Jalisco Mexico,Altamira Tamaulipas Mexico,790.2,20.674652,-103.365051,22.392539,-97.935795
+Guadalajara Jalisco Mexico,CDMX,555.9,20.674652,-103.365051,19.4326296,-99.1331785
+Guadalajara Jalisco Mexico,CDMX,555.9,20.674652,-103.365051,19.4326296,-99.1331785
+Guadalajara Jalisco Mexico,Manzanillo Colima Mexico,286.6,20.674652,-103.365051,19.264454,-103.7289144
+Guadalajara Jalisco Mexico,Manzanillo Colima Mexico,286.6,20.674652,-103.365051,19.264454,-103.7289144
+Guadalajara Jalisco Mexico,Monterrey Nuevo Leon Mexico,807.6,20.674652,-103.365051,25.680522,-100.313821
+Guadalajara Jalisco Mexico,Monterrey Nuevo Leon Mexico,807.6,20.674652,-103.365051,25.680522,-100.313821
+Guadalajara Jalisco Mexico,Tepatitlan de Morelos Jalisco Mexico,78.2,20.674652,-103.365051,20.816262,-102.758917
+Guadalajara Jalisco Mexico,Tepatitlan de Morelos Jalisco Mexico,78.2,20.674652,-103.365051,20.816262,-102.758917
+Ensenada Baja California Mexico,Ciudad Insurgentes Cabo Baja California Sur Mexico,1166.1,31.866416,-116.603524,25.26002197,-111.7692478
+Ensenada Baja California Mexico,Ciudad Insurgentes Cabo Baja California Sur Mexico,1166.1,31.866416,-116.603524,25.26002197,-111.7692478
+Ensenada Baja California Mexico,Ciudad Juarez Chihuahua Mexico,1238.9,31.866416,-116.603524,31.7372575,-106.485655
+Ensenada Baja California Mexico,Ciudad Juarez Chihuahua Mexico,1238.9,31.866416,-116.603524,31.7372575,-106.485655
+Ensenada Baja California Mexico,Golfo de Santa Clara Sonora Mexico,410.4,31.866416,-116.603524,31.687739,-114.494228
+Ensenada Baja California Mexico,Golfo de Santa Clara Sonora Mexico,410.4,31.866416,-116.603524,31.687739,-114.494228
+Ensenada Baja California Mexico,Hermosillo Sonora Mexico,932.3,31.866416,-116.603524,29.09426,-110.969649
+Ensenada Baja California Mexico,Hermosillo Sonora Mexico,932.3,31.866416,-116.603524,29.09426,-110.969649
+Ensenada Baja California Mexico,La Paz Baja California Mexico,1400.5,31.866416,-116.603524,32.5050622,-116.9045963
+Ensenada Baja California Mexico,La Paz Baja California Mexico,1400.5,31.866416,-116.603524,32.5050622,-116.9045963
+Ensenada Baja California Mexico,Mexicali Baja California Mexico,240.3,31.866416,-116.603524,32.641201,-115.474312
+Ensenada Baja California Mexico,Mexicali Baja California Mexico,240.3,31.866416,-116.603524,32.641201,-115.474312
+Ensenada Baja California Mexico,San Jose del Cabo Baja California Sur Mexico,1580.9,31.866416,-116.603524,23.0598364,-109.7025148
+Ensenada Baja California Mexico,San Jose del Cabo Baja California Sur Mexico,1580.9,31.866416,-116.603524,23.0598364,-109.7025148
+Ensenada Baja California Mexico,San Luis Rio Colorado Sonora Mexico,309.5,31.866416,-116.603524,32.4517957,-114.7652542
+Ensenada Baja California Mexico,San Luis Rio Colorado Sonora Mexico,309.5,31.866416,-116.603524,32.4517957,-114.7652542
+Ensenada Baja California Mexico,San Quintín Baja California Mexico,184.8,31.866416,-116.603524,30.5613719,-115.938162
+Ensenada Baja California Mexico,San Quintín Baja California Mexico,184.8,31.866416,-116.603524,30.5613719,-115.938162
+Ensenada Baja California Mexico,Tecate Baja California Mexico,109,31.866416,-116.603524,32.5791061,-116.5934782
+Ensenada Baja California Mexico,Tecate Baja California Mexico,109,31.866416,-116.603524,32.5791061,-116.5934782
+Ensenada Baja California Mexico,Tijuana Baja California Mexico,106.3,31.866416,-116.603524,32.533157,-117.019112
+Ensenada Baja California Mexico,Tijuana Baja California Mexico,106.3,31.866416,-116.603524,32.533157,-117.019112
