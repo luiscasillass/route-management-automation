@@ -1,11 +1,12 @@
-# este programa incluye información privada de JARO Freight por lo que cualquier alteración o mal uso de ella se penalizará. 
+# this program contains confidential information belonging to JARO Freight. Any unauthorized alteration, 
+# misuse, or distribution of this data will result in penalties
 import requests
 import pandas as pd
 
 
-BASE_URL = 'https://pb-jaro-staging.fly.dev/api'
+BASE_URL = 'https://BASE_URL'
 COLLECTION = 'routes'
-API_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTk4NzU0NDYsImlkIjoiZjB4bW83NnQ0eDkxYjNjIiwidHlwZSI6ImFkbWluIn0.39vp1k5LPFwB_3TKCV1aF3o7t7ztuZwM6Yc4W-okVl8'
+API_TOKEN = 'API_KEY'
 
 
 def route_exists(origin, destination):
