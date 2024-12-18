@@ -1,3 +1,4 @@
+# este programa incluye información privada de JARO Freight por lo que cualquier alteración o mal uso de ella se penalizará. 
 import requests
 import pandas as pd
 
