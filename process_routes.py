@@ -23,7 +23,7 @@ def route_exists(origin, destination):
     data = response.json()
     return data['totalItems'] > 0  
 
-
+# function to create route
 def create_route(route):
     response = requests.post(
         f"{BASE_URL}/collections/{COLLECTION}/records",
