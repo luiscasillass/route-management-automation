@@ -4,9 +4,9 @@ import requests
 import pandas as pd
 
 
-BASE_URL = 'https://BASE_URL'
+BASE_URL = 'https://BASE_URL' # db url route 
 COLLECTION = 'routes'
-API_TOKEN = 'API_KEY'
+API_TOKEN = 'API_KEY' 
 
 
 def route_exists(origin, destination):
@@ -23,7 +23,7 @@ def route_exists(origin, destination):
     data = response.json()
     return data['totalItems'] > 0  
 
-# function to create route
+#  create route 
 def create_route(route):
     response = requests.post(
         f"{BASE_URL}/collections/{COLLECTION}/records",
